@@ -14,6 +14,8 @@ The source repository is private, and GitHub does not serve release assets of pr
 repositories to anonymous requests — both in-app OTA checks and the Homebrew cask would
 get a 404. Artifacts therefore live here, decoupled from source.
 
+[Privacy policy](PRIVACY.md) / 隐私政策
+
 ## 下载
 
 | 用途 | 文件 |
