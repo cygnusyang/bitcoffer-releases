@@ -1,6 +1,6 @@
-# 安全政策 / Security Policy
+# Security Policy / 安全政策
 
-[简体中文](#简体中文) · [English](#english)
+[English](#english) · [简体中文](#简体中文)
 
 ## English
 

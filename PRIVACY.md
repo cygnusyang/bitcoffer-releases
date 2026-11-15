@@ -1,6 +1,6 @@
-# 隐私政策 / Privacy Policy
+# Privacy Policy / 隐私政策
 
-[简体中文](#简体中文) · [English](#english)
+[English](#english) · [简体中文](#简体中文)
 
 ## English
 
